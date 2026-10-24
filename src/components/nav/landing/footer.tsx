@@ -1,0 +1,1 @@
+export async function Footer({address}:{address:string;phone_1:string;phone_2:string}) {return <footer><p>Noor Studio · Qudra Labs demo</p><p>{address}</p><p>Monday–Saturday, 10 am–6 pm. Sunday closed.</p></footer>}
