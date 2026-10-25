@@ -6,9 +6,9 @@ export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_APP_URL || "https://noor.example"
   ),
-  title: "Noor Studio — A Qudra Labs booking demo",
+  title: "Noor Studio — A Maeen Alganimi booking demo",
   description:
-    "A little time for yourself. Explore services and try English and Arabic online booking at Noor Studio, a fictional Qudra Labs demo.",
+    "A little time for yourself. Explore services and try English and Arabic online booking at Noor Studio, a fictional demo.",
   robots: { index: false, follow: false },
 }
 

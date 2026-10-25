@@ -10,11 +10,11 @@ const links = {
 export const siteConfig = {
   links,
   nameShort: "Noor Studio",
-  nameLong: "Noor Studio by Qudra Labs",
+  nameLong: "Noor Studio by Maeen Alganimi",
   description: "A bilingual AI booking demo",
   url: "https://noor.example",
   ogImage: "",
-  author: "Qudra Labs",
+  author: "Maeen Alganimi",
   hostingRegion: "fra1",
   keywords: ["booking", "salon", "demo"],
   mainNavItems: [

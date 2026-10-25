@@ -23,7 +23,7 @@ export function EnquiryNotificationForCustomerEmail({
       <Tailwind>
         <Body>
           {/* TODO */}
-          New contact enquiry for Noor Studio, a Qudra Labs demo.
+          New contact enquiry for Noor Studio, a demo.
         </Body>
       </Tailwind>
     </Html>

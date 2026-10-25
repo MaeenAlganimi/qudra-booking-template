@@ -112,12 +112,12 @@ const copy = {
       ],
       [
         "Is this a real business?",
-        "Noor Studio is a fictional business created by Qudra Labs to demonstrate bilingual AI booking. No real bookings or payments are made.",
+        "Noor Studio is a fictional business created by Maeen Alganimi to demonstrate bilingual AI booking. No real bookings or payments are made.",
       ],
     ],
     footer: "Thoughtful care. Beautifully simple.",
     demo: "DEMO TEMPLATE BY",
-    rights: "Qudra Labs · Fictional business demo",
+    rights: "Maeen Alganimi · Fictional business demo",
     privacyLink: "Privacy & demo information",
     chatTitle: "Your Noor assistant",
     chatSub: "A little help finding your moment",
@@ -431,7 +431,7 @@ export function Studio({
     <div className="noor-site">
       <div className="demo-strip">
         <span>
-          {t.demo} <strong>QUDRA LABS</strong>
+          {t.demo} <strong>MAEEN ALGANIMI</strong>
         </span>
         <span className="strip-detail">
           {t.template}
@@ -959,7 +959,7 @@ export function Studio({
           <div className="footer-brand">
             <span>{t.demo}</span>
             <strong>
-              QUDRA LABS
+              MAEEN ALGANIMI
               <ArrowUpRight size={19} />
             </strong>
             <p>{t.template}</p>

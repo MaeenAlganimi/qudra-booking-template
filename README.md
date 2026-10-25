@@ -2,7 +2,7 @@
 
 Bilingual (EN/AR) booking site for salons, clinics and small shops, with a Gemini AI assistant that answers FAQs and books slots.
 
-A demo template by **Qudra Labs**. Bilingual English / Arabic (RTL), with AI from Google Gemini (`gemini-2.5-flash`) called server-side only.
+A demo template by **Maeen Alganimi**. Bilingual English / Arabic (RTL), with AI from Google Gemini (`gemini-2.5-flash`) called server-side only.
 
 | English | Arabic (RTL) | Mobile |
 |---|---|---|

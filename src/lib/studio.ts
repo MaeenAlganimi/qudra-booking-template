@@ -54,7 +54,7 @@ export const staff = [
 ]
 export const business = {
   name: "Noor Studio",
-  brand: "Qudra Labs",
+  brand: "Maeen Alganimi",
   address: "12 Olive Lane, Garden District (fictional)",
   hours: "Monday–Saturday, 10:00–18:00. Closed Sunday.",
   cancellation:
@@ -79,7 +79,7 @@ export type Slot = {
   staff: string
   service: string
 }
-export const storageKey = "qudra-noor-bookings-v1"
+export const storageKey = "noor-bookings-v1"
 export function dateKey(date: Date) {
   return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`
 }

@@ -1,6 +1,6 @@
 {
-  "name": "qudra-noor-booking-template",
-  "description": "English and Arabic AI booking demo by Qudra Labs",
+  "name": "noor-booking-template",
+  "description": "English and Arabic AI booking demo by Maeen Alganimi",
   "version": "0.1.0",
   "license": "MIT",
   "private": true,

@@ -56,7 +56,7 @@ export async function POST(request: Request) {
     else if (/where|address|location|عنوان|أين|موقع/.test(question))
       message = ar
         ? "عنواننا الخيالي: 12 ممر الزيتون، حي الحدائق. نور ستوديو نموذج تجريبي من قدرة لابز."
-        : "Our fictional address is 12 Olive Lane, Garden District. Noor Studio is a Qudra Labs demo business."
+        : "Our fictional address is 12 Olive Lane, Garden District. Noor Studio is a demo business."
     else if (/staff|team|who|فريق|مايا|لينا/.test(question))
       message = ar
         ? "مايا مختصة بقص الشعر والعناية به، ولينا مختصة بالعناية بالبشرة."

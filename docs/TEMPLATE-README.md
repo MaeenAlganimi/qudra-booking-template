@@ -1,4 +1,4 @@
-# Noor Studio · Qudra Labs
+# Noor Studio · Maeen Alganimi
 
 An English/Arabic small-business booking template built with Next.js, React, Tailwind CSS, and Lucide. Noor Studio is a fictional salon. All services, specialists, prices, and addresses are sample content.
 
@@ -22,7 +22,7 @@ Without a key, deterministic FAQ answers and slot proposals work in **Demo mode*
 
 ## Demo bookings
 
-The form and chat share the same availability and localStorage flow (`qudra-noor-bookings-v1`). All services last 60 minutes. Available hours are Monday–Saturday, 10:00–18:00; Sunday is closed. Past times and overlapping appointments for the same specialist are excluded. Submissions recheck availability before saving. Bookings persist after reload, can be cancelled in the form, and can be cleared through the privacy dialog.
+The form and chat share the same availability and localStorage flow (`noor-bookings-v1`). All services last 60 minutes. Available hours are Monday–Saturday, 10:00–18:00; Sunday is closed. Past times and overlapping appointments for the same specialist are excluded. Submissions recheck availability before saving. Bookings persist after reload, can be cancelled in the form, and can be cleared through the privacy dialog.
 
 This is a browser-local demonstration: it sends no booking emails, takes no payment, and does not share availability between devices. For a live business, connect the existing database booking modules to a shared, authenticated backend with atomic conflict checking. No database, auth, email, map, or analytics credentials are needed to build or render the public demo.
 

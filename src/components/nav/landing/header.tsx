@@ -12,7 +12,7 @@ export function Header(): JSX.Element {
   return (
     <header className="mx-auto flex w-full max-w-[1440px] items-center justify-between bg-transparent px-5 py-6 text-greenNavbarText transition-all duration-500 ease-in-out md:px-6 md:py-8 lg:py-9 w-1496:px-0">
       <Link href="/">
-        <span>Noor Studio · Qudra Labs demo</span>
+        <span>Noor Studio · demo</span>
       </Link>
       <div className="flex flex-1 items-center justify-end whitespace-nowrap">
         <Navigation navItems={siteConfig.mainNavItems} />
